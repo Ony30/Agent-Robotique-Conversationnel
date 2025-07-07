@@ -1,0 +1,21 @@
+topic: ~Madagascar()
+language: frf
+
+# Accueil
+u:(Nao Bonjour) Bonjour! Je suis prêt à répondre à vos questions sur Madagascar.
+
+# Questions sur Madagascar
+u:(Ou se trouve Madagascar?) $onShotWord="Ou se trouve Madagascar?"
+
+u:(Quelle est la superficie  de Madagascar) $onShotWord="uelle est la superficie  de Madagascar"
+
+u:(Combien d'habitants compte Madagascar) $onShotWord="Combien d'habitants compte Madagascar"
+
+u:(À quel continent Madagascar est-il rattaché géographiquement) $onShotWord="À quel continent Madagascar est-il rattaché géographiquement"
+
+u:(Quelle est la capitale  de Madagascar) $onShotWord="Quelle est la capitale de la république de Madagascar"
+
+u:( Qui est l'actuel président de la republique ) $onShotWord=" Qui est l'actuel président de la republique 2019"
+
+u:(Quelle est la nationalité des touristes qui visitent le plus Madagascar) $onShotWord="Quelle est la nationalité des touristes qui visitent le plus Madagascar"
+
